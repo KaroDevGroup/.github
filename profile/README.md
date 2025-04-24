@@ -3,6 +3,3 @@
       <br><br>
       <b>KaroDevGroup</b>
  </p>
----
- * **Do NOT download anything without knowing what you're doing.** 
----
